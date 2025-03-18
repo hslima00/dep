@@ -156,7 +156,7 @@ plugins:
       encrypted_something:
           md-footer__inner: [nav, class]
           md-nav: [nav, class]
-      search_index: 'clear'
+      search_index: 'encrypted'
       mermaid2: False
       hljs: False
       webcrypto: true
