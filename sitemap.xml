@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hslima00.github.io/dep/</loc>
-         <lastmod>2025-04-21</lastmod>
+         <lastmod>2025-04-23</lastmod>
     </url>
     <url>
          <loc>https://hslima00.github.io/dep/vcs/</loc>
-         <lastmod>2025-04-21</lastmod>
+         <lastmod>2025-04-23</lastmod>
+    </url>
+    <url>
+         <loc>https://hslima00.github.io/dep/Acredita%C3%A7%C3%A3o/diagramas/</loc>
+         <lastmod>2025-04-23</lastmod>
     </url>
     <url>
          <loc>https://hslima00.github.io/dep/Doutoramento/candidatura/</loc>
-         <lastmod>2025-04-21</lastmod>
+         <lastmod>2025-04-23</lastmod>
     </url>
     <url>
          <loc>https://hslima00.github.io/dep/Encripta%C3%A7%C3%A3o%20Radar/encriptacao_radar/</loc>
-         <lastmod>2025-04-21</lastmod>
+         <lastmod>2025-04-23</lastmod>
     </url>
     <url>
          <loc>https://hslima00.github.io/dep/Radar/lecture1/</loc>
-         <lastmod>2025-04-21</lastmod>
+         <lastmod>2025-04-23</lastmod>
     </url>
 </urlset>
